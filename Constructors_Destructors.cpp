@@ -1,3 +1,13 @@
+//Problem 2: Contructors and Destructors
+//Create a BankAccount class with :
+//1. Private attributes : accountNumber, accountHolderName, balance.
+//2. A constructor to initialize these values.
+//3. Methods to deposit(), withdraw(), and displayBalance().
+//4. A destructor that prints a message when an object is destroyed.
+
+
+
+
 #include<iostream>
 #include<string>
 

@@ -1,3 +1,12 @@
+//Problem 1: Encapsulation
+//Create a Student class with private attributes : name, rollNumber, and marks.Include methods to :
+//1. Set student details.
+//2. Display student details.
+//3. Calculate and return the grade based on marks(A, B, C, etc.).
+
+
+
+
 #include<iostream>
 #include<string>
 using namespace std;
